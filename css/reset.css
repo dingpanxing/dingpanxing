@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+/*--------------------重置样式------------------------------*/
+body,p,h1,h3,h2,h4,h5,h6,ul,ol,dl,dd,dt,fieldset,input,form,article, aside, canvas, details, figcaption, figure,footer, header, menu, nav, section, summary{margin:0;padding:0}
+a{text-decoration:none}
+li{list-style:none}
+img{border:none;display:block}
+body{font-family:"微软雅黑";background:#fff;font-size:15px;/*box-sizing:border-box;*/}
+b,strong,em,i{font-weight:normal;font-style:normal}
+.left{float:left}
+.right{float:right}
+.wrapper{margin:0 auto} 
+.clear{clear:both;}
+.clear:after{content:"";display:block;clear:both;height:0;overflow:hidden}

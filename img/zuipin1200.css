@@ -1,0 +1,56 @@
+.header_box {width:1200px;}
+.head_box {width:1200px;}
+.search_input {width:240px;}
+.search {left:404px;}
+.hot_search{left:404px;}
+.s_cart{ left:786px;}
+/*
+.search {left:385px;}
+.hot_search{left:385px;}
+.s_cart{ left:755px;}
+*/
+.menu_box {width:1200px;}
+.rec_products {width:990px;}
+.zuipin {width:1200px;}
+.footer_safe {width:1200px;}
+.help_box {width:1200px;}
+.safe_box {width:1200px;}
+#slide {width:1200px;}
+.nav_right {width:990px;}
+.nav_right li {width:80px;background:url(../images/nav_bg.jpg) no-repeat 78px 0px;}
+.nav_right li a:hover {color:#ffffff; text-decoration:none; width:80px; background:url(../images/nav_right_c1.jpg) no-repeat;}
+.nav_right li.nav_right_c {background:url(../images/nav_right_c1.jpg) no-repeat;}
+.filter_mod {width:990px;}
+.index_say {width:629px;}
+.index_say_t {width:445px;}
+.safe_mod {width:380px;padding-left:20px;}
+.help_mod {width:164px;margin:10px 0px 0px 30px;}
+.cate_right {width:990px;}
+.combination_right {left:930px;}
+.show_right {width:690px;}
+.rec_pro_box {padding:5px 2px 5px 3px;margin:5px 0px 0px 5px;display:inline;}
+.product_box {padding:1px;margin:8px 4px 0px 5px;display:inline;height:339px;}
+.tea_hpro_box {width:1174px;padding:0px 0px 16px 26px;}
+.tea_pro_box {margin-top:10px;background:#f3f3f3;padding:0px 0px 10px 26px;}
+.tea_products {width:1175px;padding-bottom:10px;}
+.products_box {padding:16px;display:inline;margin:26px 25px 0px 0px;}
+.brand_pp_right {width:990px;}
+.brand_slide {width:980px;}
+.act_right {width:708px;}
+.sale_mod_c {margin-top:10px;background:#f3f3f3;padding:0px 0px 10px 26px;}
+.vip_right {width:990px;}
+.announ_content {width:970px;}
+.help_right {width:990px;}
+.comment {width:565px;}
+.comment_r {width:319px;}
+.pucha_lthj {width:1200px;}
+.search_mod_c {background:#f3f3f3;padding:0px 0px 10px 26px;}
+.user_right {width:990px;}
+.pucha_pro_box {background:#f3f3f3;padding:0px 0px 16px 26px;}
+.pc_right {width:990px;}
+.vip_pri_box {width:156px;padding:15px;display:inline;}
+.index_slg {height:600px;background:url(../images/index_slg1200.jpg) no-repeat;}
+.index_slg_left {width:400px;float:left;}
+.index_slg_right {width:800px;float:left;}
+.index_slg_left a {width:385px;height:295px;float:left;margin:15px 0px 0px 15px;}
+.index_slg_right a {width:377px;height:225px;float:left;margin:15px 0px 0px 15px;}
