@@ -164,6 +164,8 @@ jQuery.fn = jQuery.prototype = {
 
 			// HANDLE: $(expr, context)
 			// (which is just equivalent to: $(context).find(expr)
+			} else {
+				return this.constructor( context ).find( selector );
 			}
 
 		// HANDLE: $(function)
@@ -171,8 +173,6 @@ jQuery.fn = jQuery.prototype = {
 		} else if ( jQuery.isFunction( selector ) ) {
 			return rootjQuery.ready( selector );
 		}
-	} else {
-		return this.constructor( context ).find( selector );
 
 		if ( selector.selector !== undefined ) {
 			this.selector = selector.selector;
